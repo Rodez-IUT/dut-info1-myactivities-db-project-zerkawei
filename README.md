@@ -1,7 +1,7 @@
 # DUT Info 1 > Programmation Bases de Données
 
-### NOM : DOE
-### Prénom : John
+### NOM : ROBUR
+### Prénom : Baptiste
 ### Groupe de TP/TD : 
 - [ ] 1
 - [ ] 2
