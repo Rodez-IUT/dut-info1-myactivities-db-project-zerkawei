@@ -3,9 +3,9 @@
 ### NOM : DOE
 ### Prénom : John
 ### Groupe de TP/TD : 
-- [x] 1
+- [ ] 1
 - [ ] 2
-- [ ] 3
+- [x] 3
 
 ### 0. Création et initialisation du projet "myactivities-db-project"
 
