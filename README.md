@@ -17,8 +17,8 @@ Vérifiez votre configuration Git locale en utilisant dans un terminal "Git Bash
 Si votre user.name et user.email ne sont pas renseignés, configurez votre environnement Git avant de poursuivre les activités proposées. 
 Rappel pour configurer Git lors d’un premier usage sur une machine de travail :
 
-    git config --global user.name "Your Username"
-    git config --global user.email "Your email"
+    git config --global user.name "Baptiste Robur"
+    git config --global user.email "baptiste.robur@gmail.com"
 
 - Créez votre projet sur Github en vous inscrivant au devoir indiqué par votre enseignant.  
 - Clonez dans l’espace de travail de votre choix le projet Github généré pour vous par Github Classroom.  
